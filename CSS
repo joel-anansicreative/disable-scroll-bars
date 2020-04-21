@@ -1,0 +1,7 @@
+    .snap-wrapper {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+		}
+		.snap-wrapper::-webkit-scrollbar { 
+    display: none;
+		}
