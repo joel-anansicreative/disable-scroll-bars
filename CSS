@@ -1,7 +1,7 @@
-    .snap-wrapper {
+.your-class-here {
     -ms-overflow-style: none;
     scrollbar-width: none;
 		}
-		.snap-wrapper::-webkit-scrollbar { 
+.your-class-here::-webkit-scrollbar { 
     display: none;
 		}
